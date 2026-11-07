@@ -1,0 +1,101 @@
+ID,Nama,Alamat,Pilihan Paket,Tgl Mulai,Tgl Akhir,Nomor Telepon,Status aktif,Gender
+M001,Nisa Puspita,"Jl. Uyainah No. 128, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-11-02,2026-12-02,082970753705,Aktif,Laki-laki
+M002,Fajar Setiawan,"Jl. Kusumo No. 144, Kel. Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-31,2026-11-30,087801222128,Aktif,Perempuan
+M003,Bagas Ramadhan,"Jl. Dongoran No. 127, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-09-22,2026-10-22,084698408854,Kadaluwarsa,Perempuan
+M004,Agus Hidayat,"Jl. Saefullah No. 17, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-25,2026-11-24,085047709743,Aktif,Laki-laki
+M005,Dinda Lestari,"Jl. Prasasta No. 88, Kel. Manyaran, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym,2026-10-08,2026-11-07,082867302554,Segera Berakhir,Laki-laki
+M006,Andi Lestari,"Jl. Prasetyo No. 46, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-11-02,2026-12-02,083615507143,Aktif,Perempuan
+M007,Putri Permana,"Jl. Mandala No. 136, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-11-01,2026-12-01,086687206971,Aktif,Laki-laki
+M008,Rizky Wulandari,"Jl. Jailani No. 79, Kel. Pleburan, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah",Gym,2026-10-06,2026-11-05,081338258951,Segera Berakhir,Laki-laki
+M009,Dimas Ramadhan,"Jl. Wastuti No. 122, Kel. Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-21,2026-11-20,087900268326,Aktif,Perempuan
+M010,Dinda Kurniawan,"Jl. Palastri No. 80, Kel. Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-11,2026-11-10,088086172302,Segera Berakhir,Laki-laki
+M011,Intan Nugroho,"Jl. Irawan No. 64, Kel. Meteseh, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-06,2026-11-05,082452066459,Segera Berakhir,Perempuan
+M012,Nisa Setiawan,"Jl. Rahayu No. 19, Kel. Bulusan, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-20,2026-11-19,082419179580,Aktif,Laki-laki
+M013,Aditya Firmansyah,"Jl. Anggraini No. 139, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-31,2026-11-30,087769777475,Aktif,Laki-laki
+M014,Rani Hidayat,"Jl. Firmansyah No. 25, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-11-03,2026-12-03,087146318035,Aktif,Laki-laki
+M015,Ayu Nugroho,"Jl. Dabukke No. 14, Kel. Kembangarum, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym,2026-10-06,2026-11-05,084700855390,Segera Berakhir,Perempuan
+M016,Rian Kurniawan,"Jl. Iswahyudi No. 115, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-10-26,2026-11-25,086083042422,Aktif,Laki-laki
+M017,Bagas Wijaya,"Jl. Pratama No. 141, Kel. Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-10-14,2026-11-13,082015242176,Aktif,Perempuan
+M018,Rani Firmansyah,"Jl. Pradipta No. 103, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-08-23,2026-09-22,082627677155,Kadaluwarsa,Perempuan
+M019,Aditya Nugroho,"Jl. Mayasari No. 109, Kel. Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-07,2026-11-06,086110572428,Segera Berakhir,Perempuan
+M020,Budi Saputra,"Jl. Suartini No. 81, Kel. Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym,2026-10-14,2026-11-13,087803990970,Aktif,Laki-laki
+M021,Budi Wijaya,"Jl. Dongoran No. 48, Kel. Kembangarum, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym,2026-11-01,2026-12-01,089881824272,Aktif,Laki-laki
+M022,Dewi Santoso,"Jl. Purwanti No. 146, Kel. Pleburan, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah",Gym,2026-10-31,2026-11-30,083553440342,Aktif,Laki-laki
+M023,Ayu Puspita,"Jl. Napitupulu No. 67, Kel. Pleburan, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah",Gym,2026-11-03,2026-12-03,088370987661,Aktif,Laki-laki
+M024,Aditya Maulana,"Jl. Yulianti No. 77, Kel. Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-07-16,2026-08-15,085018948187,Kadaluwarsa,Laki-laki
+M025,Nadia Santoso,"Jl. Palastri No. 138, Kel. Meteseh, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-10,2026-11-09,082139027119,Segera Berakhir,Laki-laki
+M026,Dimas Setiawan,"Jl. Andriani No. 73, Kel. Srondol Wetan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-10-27,2026-11-26,088316648259,Aktif,Perempuan
+M027,Dinda Anggraini,"Jl. Prasetya No. 27, Kel. Pleburan, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah",Gym,2026-10-08,2026-11-07,083376077463,Segera Berakhir,Laki-laki
+M028,Arif Kurniawan,"Jl. Hassanah No. 88, Kel. Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym,2026-11-03,2026-12-03,087393195616,Aktif,Perempuan
+M029,Dimas Hidayat,"Jl. Rahmawati No. 71, Kel. Kembangarum, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym,2026-10-04,2026-11-03,089503167458,Kadaluwarsa,Laki-laki
+M030,Nadia Hidayat,"Jl. Setiawan No. 3, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-10-15,2026-11-14,083373077218,Aktif,Laki-laki
+M031,Fajar Saputra,"Jl. Ardianto No. 94, Kel. Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-10-24,2026-11-23,085736462531,Aktif,Perempuan
+M032,Citra Ramadhan,"Jl. Manullang No. 61, Kel. Pleburan, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah",Gym,2026-10-18,2026-11-17,089080621072,Aktif,Perempuan
+M033,Agus Puspita,"Jl. Anggraini No. 106, Kel. Manyaran, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym,2026-10-21,2026-11-20,084011966884,Aktif,Laki-laki
+M034,Budi Firmansyah,"Jl. Siregar No. 52, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-08,2026-11-07,081977515194,Segera Berakhir,Perempuan
+M035,Rian Maulana,"Jl. Setiawan No. 72, Kel. Srondol Wetan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-10-12,2026-11-11,086493800024,Segera Berakhir,Laki-laki
+M036,Dinda Puspita,"Jl. Mangunsong No. 30, Kel. Bulusan, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-18,2026-11-17,089519284858,Aktif,Perempuan
+M037,Rizky Hidayat,"Jl. Pratama No. 81, Kel. Srondol Wetan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-05-02,2026-06-01,085791662169,Kadaluwarsa,Laki-laki
+M038,Aditya Saputra,"Jl. Sirait No. 112, Kel. Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym,2026-10-29,2026-11-28,083880327491,Aktif,Laki-laki
+M039,Ayu Wijaya,"Jl. Jailani No. 85, Kel. Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-04-18,2026-05-18,084642197907,Kadaluwarsa,Perempuan
+M040,Intan Anggraini,"Jl. Iswahyudi No. 105, Kel. Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-25,2026-11-24,088289454630,Aktif,Perempuan
+M041,Rian Hidayat,"Jl. Wibowo No. 98, Kel. Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym,2026-11-01,2026-12-01,087739255769,Aktif,Laki-laki
+M042,Dinda Pratama,"Jl. Kuswoyo No. 74, Kel. Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-10-26,2026-11-25,086679017210,Aktif,Perempuan
+M043,Nadia Kurniawan,"Jl. Tamba No. 122, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-11-03,2026-12-03,085659161352,Aktif,Perempuan
+M044,Dimas Setiawan,"Jl. Situmorang No. 80, Kel. Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym,2026-10-19,2026-11-18,081632880459,Aktif,Perempuan
+M045,Bagas Firmansyah,"Jl. Suartini No. 19, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-26,2026-11-25,083472487690,Aktif,Laki-laki
+M046,Rani Maulana,"Jl. Saptono No. 38, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-12,2026-11-11,084803044105,Segera Berakhir,Perempuan
+M047,Bagas Permana,"Jl. Gunawan No. 133, Kel. Manyaran, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-06,2026-11-05,083394039673,Segera Berakhir,Perempuan
+M048,Nadia Ramadhan,"Jl. Haryanti No. 119, Kel. Manyaran, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-12,2026-11-11,089123612497,Segera Berakhir,Laki-laki
+M049,Dinda Nugroho,"Jl. Nasyiah No. 41, Kel. Pleburan, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-27,2026-11-26,088033702319,Aktif,Perempuan
+M050,Bagas Lestari,"Jl. Maheswara No. 20, Kel. Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-20,2026-11-19,086461974809,Aktif,Perempuan
+M051,Dinda Wijaya,"Jl. Waluyo No. 39, Kel. Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-06-28,2026-07-28,083980491761,Kadaluwarsa,Perempuan
+M052,Dimas Hidayat,"Jl. Hutapea No. 85, Kel. Ngesrep, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-26,2026-11-25,081267429212,Aktif,Laki-laki
+M053,Dewi Pratama,"Jl. Puspasari No. 148, Kel. Kembangarum, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-28,2026-11-27,086805759868,Aktif,Perempuan
+M054,Ayu Setiawan,"Jl. Sihombing No. 57, Kel. Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-26,2026-11-25,083085816511,Aktif,Perempuan
+M055,Siti Maulana,"Jl. Utami No. 43, Kel. Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-17,2026-11-16,083294043548,Aktif,Perempuan
+M056,Nisa Pratama,"Jl. Safitri No. 110, Kel. Meteseh, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-27,2026-11-26,081780520225,Aktif,Perempuan
+M057,Dewi Puspita,"Jl. Tarihoran No. 117, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-23,2026-11-22,086923301988,Aktif,Perempuan
+M058,Aditya Wijaya,"Jl. Permata No. 5, Kel. Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-10-08,2026-11-07,082062073697,Segera Berakhir,Perempuan
+M059,Citra Ramadhan,"Jl. Nababan No. 33, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-11-03,2026-12-03,085070585433,Aktif,Laki-laki
+M060,Aditya Wulandari,"Jl. Hidayat No. 30, Kel. Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-08,2026-11-07,089410288290,Segera Berakhir,Perempuan
+M061,Rian Wijaya,"Jl. Gunawan No. 63, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-10-22,2026-11-21,084361393222,Aktif,Perempuan
+M062,Dinda Hidayat,"Jl. Wijayanti No. 95, Kel. Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym,2026-10-29,2026-11-28,088076144396,Aktif,Perempuan
+M063,Ayu Firmansyah,"Jl. Pradana No. 111, Kel. Meteseh, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-11-02,2026-12-02,085952059278,Aktif,Laki-laki
+M064,Intan Lestari,"Jl. Siregar No. 138, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-09,2026-11-08,086447717367,Segera Berakhir,Laki-laki
+M065,Dimas Lestari,"Jl. Hutapea No. 116, Kel. Pleburan, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah",Gym,2026-10-12,2026-11-11,086922713963,Segera Berakhir,Laki-laki
+M066,Rani Puspita,"Jl. Pradipta No. 125, Kel. Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-24,2026-11-23,088721631198,Aktif,Laki-laki
+M067,Aditya Lestari,"Jl. Januar No. 3, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-10-06,2026-11-05,087040562787,Segera Berakhir,Perempuan
+M068,Rani Firmansyah,"Jl. Wibowo No. 5, Kel. Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-10-22,2026-11-21,086246716604,Aktif,Laki-laki
+M069,Arif Wulandari,"Jl. Setiawan No. 142, Kel. Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-06-18,2026-07-18,087658867789,Kadaluwarsa,Laki-laki
+M070,Nadia Lestari,"Jl. Hasanah No. 65, Kel. Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-10-16,2026-11-15,084097892639,Aktif,Perempuan
+M071,Rizky Permana,"Jl. Usada No. 56, Kel. Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-21,2026-11-20,086128695961,Aktif,Perempuan
+M072,Putri Permana,"Jl. Utama No. 4, Kel. Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-07-26,2026-08-25,089824122054,Kadaluwarsa,Laki-laki
+M073,Fajar Firmansyah,"Jl. Marpaung No. 4, Kel. Meteseh, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-28,2026-11-27,087351029162,Aktif,Perempuan
+M074,Agus Saputra,"Jl. Uwais No. 123, Kel. Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-09-18,2026-10-18,087015992643,Kadaluwarsa,Perempuan
+M075,Nisa Saputra,"Jl. Thamrin No. 39, Kel. Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-15,2026-11-14,085268845844,Aktif,Laki-laki
+M076,Dinda Hidayat,"Jl. Pranowo No. 58, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-06-11,2026-07-11,089196963901,Kadaluwarsa,Laki-laki
+M077,Nisa Hidayat,"Jl. Winarsih No. 146, Kel. Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-11-01,2026-12-01,084275930923,Aktif,Perempuan
+M078,Aditya Wijaya,"Jl. Santoso No. 62, Kel. Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-10,2026-11-09,081322401182,Segera Berakhir,Laki-laki
+M079,Ayu Nugroho,"Jl. Zulaika No. 121, Kel. Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-06,2026-11-05,086289150149,Segera Berakhir,Laki-laki
+M080,Nadia Wijaya,"Jl. Yuliarti No. 60, Kel. Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-12,2026-11-11,086144594354,Segera Berakhir,Perempuan
+M081,Dinda Setiawan,"Jl. Hidayanto No. 39, Kel. Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-12,2026-11-11,081610900200,Segera Berakhir,Laki-laki
+M082,Agus Anggraini,"Jl. Sudiati No. 146, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-27,2026-11-26,085829062179,Aktif,Laki-laki
+M083,Dewi Lestari,"Jl. Usada No. 139, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-27,2026-11-26,089935429720,Aktif,Perempuan
+M084,Ayu Puspita,"Jl. Narpati No. 65, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-09-11,2026-10-11,088822944679,Kadaluwarsa,Laki-laki
+M085,Agus Firmansyah,"Jl. Nasyidah No. 114, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-08-19,2026-09-18,088792122716,Kadaluwarsa,Laki-laki
+M086,Rani Wulandari,"Jl. Prasasta No. 86, Kel. Ngesrep, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-11-03,2026-12-03,085985704790,Aktif,Laki-laki
+M087,Rani Anggraini,"Jl. Marpaung No. 103, Kel. Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym,2026-10-27,2026-11-26,085673181221,Aktif,Perempuan
+M088,Siti Santoso,"Jl. Hariyah No. 104, Kel. Manyaran, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym,2026-10-11,2026-11-10,087279140605,Segera Berakhir,Perempuan
+M089,Rian Wulandari,"Jl. Wibowo No. 128, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-14,2026-11-13,086169243284,Aktif,Laki-laki
+M090,Arif Nugroho,"Jl. Saputra No. 125, Kel. Pleburan, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah",Gym,2026-10-06,2026-11-05,085975196341,Segera Berakhir,Laki-laki
+M091,Dinda Hidayat,"Jl. Uyainah No. 58, Kel. Meteseh, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-06-08,2026-07-08,085067594934,Kadaluwarsa,Laki-laki
+M092,Rani Anggraini,"Jl. Puspita No. 70, Kel. Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-28,2026-11-27,089505085936,Aktif,Laki-laki
+M093,Nadia Ramadhan,"Jl. Prasetya No. 49, Kel. Ngesrep, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym,2026-10-15,2026-11-14,087077131430,Aktif,Laki-laki
+M094,Andi Anggraini,"Jl. Simbolon No. 77, Kel. Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-17,2026-11-16,087375197714,Aktif,Perempuan
+M095,Dinda Maulana,"Jl. Hakim No. 83, Kel. Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-10-20,2026-11-19,087750819485,Aktif,Perempuan
+M096,Ayu Saputra,"Jl. Pradana No. 122, Kel. Srondol Wetan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-25,2026-11-24,085948254671,Aktif,Laki-laki
+M097,Fajar Puspita,"Jl. Firmansyah No. 26, Kel. Kembangarum, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-09-09,2026-10-09,082962491159,Kadaluwarsa,Laki-laki
+M098,Ayu Ramadhan,"Jl. Sihotang No. 121, Kel. Meteseh, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym + Treadmill,2026-10-23,2026-11-22,087586857685,Aktif,Laki-laki
+M099,Rani Saputra,"Jl. Wacana No. 18, Kel. Pedurungan Tengah, Kec. Pedurungan, Kota Semarang, Jawa Tengah",Gym,2026-11-02,2026-12-02,085683143581,Aktif,Perempuan
+M100,Rizky Nugroho,"Jl. Santoso No. 77, Kel. Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah",Gym,2026-10-06,2026-11-05,085535997538,Segera Berakhir,Laki-laki

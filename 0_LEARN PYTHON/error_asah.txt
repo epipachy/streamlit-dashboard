@@ -1,0 +1,119 @@
+##      PENANGANAN KESALAHAN (ERROR HANDLING DAN EXCEPTION HANDLING)     ##
+
+# 1. Kesalahan sintaks (syntax errors) atau kesalahan penguraian (parsing errors)
+## Terjadi ketika python ga ngerti perintah anda. 
+## 1.1 IndentationError
+if 9>10:
+print("Hello world")
+"""
+Output:
+File "/home/glot/main.py", line 2
+    print("Hello World!")
+    ^
+IndentationError: expected an indented block    # Seharusnya terdapat identasi sebelum sintaks "print()"
+"""
+## 1.2 SyntaxErrors
+i = 1
+while i<3
+    print("Dicoding")
+    i+=1
+
+"""
+Output:
+  File "/home/glot/main.py", line 2
+    while i<3    # Gaada tanda :
+             ^
+SyntaxError: invalid syntax
+"""
+
+## Struktur sintax errors
+File "<nama file>", line <nomor baris>
+    <baris kode dengan kesalahan>
+                ^
+<tipe kesalahan>: <pesan kesalahan>
+
+
+
+# 2. Pengecualian (exceptions) atau kesalahan saat beroperasi (runtime errors)
+## kesalahan ketika python mengerti perintah tapi ada masalah saat mengikutinya
+## biasanya pas bikin kodprog kompleks. 
+
+print(angka)
+
+"""
+Output:
+Traceback (most recent call last):
+  File "/home/glot/main.py", line 1, in <module>
+    print(angka)
+NameError: name 'angka' is not defined      # gaada deklarasi variabel angka sebelumnya
+"""
+
+bukan_angka = '1'
+bukan_angka + 2
+
+
+"""
+Output:
+Traceback (most recent call last):
+  File "/home/glot/main.py", line 2, in <module>
+    bukan_angka + 2     # ini string gabisa dipakein + 
+TypeError: can only concatenate str (not "int") to str
+"""
+
+# PENANGANAN Pengecualian
+## pake try except
+try:
+# blok kode yg mungkin terjadi Pengecualian
+except:
+# pernyataan yang dioperasikan ketika terjadi Pengecualian
+z=0
+try:
+    print(1/z)
+except ZeroDivisionError:
+    print("Anda tidak bisa membagi angka dengan nilai nol.")
+
+"""
+Output:
+Anda tidak bisa membagi angka dengan nilai nol.
+"""
+## TRY STATEMENT
+## Pada try statement, program akan menjalankan blok kode yang mungkin terjadi pengecualian. 
+## Pada except statement, program akan mengeksekusi statement ini jika terjadi pengecualian. 
+## Pada else statement, program akan mengeksekusi statement ini jika tidak terjadi pengecualian. 
+## Pada finally statement, program akan mengeksekusi statement ini setelah semua pernyataan di atas terjadi.
+var_dict = {"rata_rata": "1.0"}
+
+try:
+    print(f"rata-rata adalah {var_dict['rata_rata']}")
+except KeyError:
+    print("Key tidak ditemukan.")
+except TypeError:
+    print("Anda tidak bisa membagi nilai dengan tipe data string")
+else:
+    print("Kode ini dieksekusi jika tidak ada exception.")
+finally:
+    print("Kode ini dieksekusi terlepas dari ada atau tidaknya exception.")
+    
+"""
+Output:
+rata-rata adalah 1.0
+Kode ini dieksekusi jika tidak ada exception.
+Kode ini dieksekusi terlepas dari ada atau tidaknya exception.
+"""
+
+# RAISE EXCEPTION
+## raise digunakan bersamaan dengan if-else statement.
+var = -1
+if var < 0:
+    raise ValueError("Bilangan negatif tidak diperbolehkan")
+else:
+    for i in range(var):
+        print(i+1)
+    
+
+"""
+Traceback (most recent call last):
+  File "/home/glot/main.py", line 3, in <module>
+    raise ValueError("Bilangan negatif tidak diperbolehkan")
+ValueError: Bilangan negatif tidak diperbolehkan
+"""

@@ -1,0 +1,201 @@
+ID Kunjungan,Tanggal,ID Member,Nama Pengunjung,Status Pengunjung,Paket/Layanan,Nomor Loker,Waktu Masuk,Waktu Keluar,Metode Pembayaran,Produk Tambahan
+K001,2026-10-21,M082,Agus Anggraini,Member,Gym + Treadmill,L48,06:30,08:17,Cash,Minuman Isotonik
+K002,2026-08-10,M014,Rani Hidayat,Member,Gym,L06,17:00,19:33,Cash,Air Mineral
+K003,2026-10-06,M028,Arif Kurniawan,Member,Gym,L27,14:00,15:35,,Tidak Ada
+K004,2026-09-08,M029,Dimas Hidayat,Member,Gym,L28,15:30,16:16,QRIS,Minuman Isotonik
+K005,2026-09-30,M044,Dimas Setiawan,Member,Gym,L25,08:15,10:26,Cash,Air Mineral
+K006,2026-09-20,M013,Aditya Firmansyah,Member,Gym,L30,19:30,21:22,QRIS,Air Mineral
+K007,2026-10-20,M069,Arif Wulandari,Member,Gym + Treadmill,L19,20:45,21:50,,Tidak Ada
+K008,2026-08-17,M081,Dinda Setiawan,Member,Gym + Treadmill,L43,20:30,22:04,Cash,Air Mineral
+K009,2026-09-28,M030,Nadia Hidayat,Member,Gym,L30,07:15,08:25,Transfer,Kopi
+K010,2026-09-19,M082,Agus Anggraini,Member,Gym + Treadmill,L18,08:30,10:45,QRIS,Minuman Isotonik
+K011,2026-08-09,M090,Arif Nugroho,Member,Gym,L47,16:00,17:28,,Tidak Ada
+K012,2026-10-15,M032,Citra Ramadhan,Member,Gym,L15,13:45,15:39,,Tidak Ada
+K013,2026-09-24,M088,Siti Santoso,Member,Gym,L26,19:00,20:43,Transfer,Air Mineral
+K014,2026-10-27,M035,Rian Maulana,Member,Gym,L42,09:30,11:09,Transfer,Kopi
+K015,2026-10-17,M059,Citra Ramadhan,Member,Gym + Treadmill,L35,10:15,12:03,,Tidak Ada
+K016,2026-08-22,M034,Budi Firmansyah,Member,Gym + Treadmill,L33,12:45,15:02,Cash,Minuman Isotonik
+K017,2026-10-24,M064,Intan Lestari,Member,Gym + Treadmill,L11,18:00,19:13,QRIS,Minuman Isotonik
+K018,2026-09-11,M088,Siti Santoso,Member,Gym,L30,15:00,17:23,QRIS,Kopi
+K019,2026-10-03,M068,Rani Firmansyah,Member,Gym,L49,14:00,15:14,,Tidak Ada
+K020,2026-08-14,M035,Rian Maulana,Member,Gym,L30,11:00,13:00,Cash,Kopi
+K021,2026-10-02,M001,Nisa Puspita,Member,Gym + Treadmill,L20,14:15,17:09,QRIS,Air Mineral
+K022,2026-09-01,M082,Agus Anggraini,Member,Gym + Treadmill,L35,15:15,16:39,Cash,Protein Shake
+K023,2026-08-29,M100,Rizky Nugroho,Member,Gym,L08,20:00,22:07,Cash,Kopi
+K024,2026-09-26,M047,Bagas Permana,Member,Gym + Treadmill,L06,09:00,10:46,,Tidak Ada
+K025,2026-09-03,M011,Intan Nugroho,Member,Gym,L31,19:00,20:17,QRIS,Minuman Isotonik
+K026,2026-10-14,M071,Rizky Permana,Member,Gym + Treadmill,L49,10:45,12:24,,Tidak Ada
+K027,2026-08-08,M094,Andi Anggraini,Member,Gym + Treadmill,L34,09:30,11:57,Transfer,Protein Shake
+K028,2026-10-20,M058,Aditya Wijaya,Member,Gym,L38,09:15,10:16,Cash,Protein Shake
+K029,2026-10-06,M071,Rizky Permana,Member,Gym + Treadmill,L41,15:15,16:01,QRIS,Air Mineral
+K030,2026-10-06,M008,Rizky Wulandari,Member,Gym,L16,07:00,09:09,QRIS,Air Mineral
+K031,2026-08-11,M036,Dinda Puspita,Member,Gym + Treadmill,L37,13:15,14:33,,Tidak Ada
+K032,2026-10-04,M061,Rian Wijaya,Member,Gym,L07,18:45,21:14,Cash,Minuman Isotonik
+K033,2026-09-10,M085,Agus Firmansyah,Member,Gym + Treadmill,L04,11:45,14:15,QRIS,Kopi
+K034,2026-08-13,M087,Rani Anggraini,Member,Gym,L22,16:00,17:00,QRIS,Kopi
+K035,2026-10-04,M014,Rani Hidayat,Member,Gym,L12,09:15,11:54,Transfer,Minuman Isotonik
+K036,2026-09-06,M036,Dinda Puspita,Member,Gym + Treadmill,L07,09:00,11:38,,Tidak Ada
+K037,2026-08-13,M007,Putri Permana,Member,Gym,L27,14:00,15:08,Cash,Minuman Isotonik
+K038,2026-09-04,M063,Ayu Firmansyah,Member,Gym + Treadmill,L01,09:45,10:45,Transfer,Minuman Isotonik
+K039,2026-10-02,M050,Bagas Lestari,Member,Gym + Treadmill,L47,20:45,22:43,QRIS,Kopi
+K040,2026-08-12,M072,Putri Permana,Member,Gym,L14,17:45,19:09,Transfer,Minuman Isotonik
+K041,2026-08-22,M008,Rizky Wulandari,Member,Gym,L38,17:00,19:05,Cash,Air Mineral
+K042,2026-09-01,M062,Dinda Hidayat,Member,Gym,L06,20:15,21:14,,Tidak Ada
+K043,2026-10-27,M024,Aditya Maulana,Member,Gym + Treadmill,L37,15:00,16:45,Cash,Kopi
+K044,2026-08-22,M032,Citra Ramadhan,Member,Gym,L38,15:00,16:05,QRIS,Kopi
+K045,2026-08-30,M073,Fajar Firmansyah,Member,Gym + Treadmill,L17,11:30,13:07,Cash,Protein Shake
+K046,2026-10-19,M051,Dinda Wijaya,Member,Gym,L01,16:30,19:12,Cash,Protein Shake
+K047,2026-08-17,M059,Citra Ramadhan,Member,Gym + Treadmill,L14,15:00,16:03,,Tidak Ada
+K048,2026-10-02,M065,Dimas Lestari,Member,Gym,L19,08:30,09:32,Transfer,Minuman Isotonik
+K049,2026-09-09,M021,Budi Wijaya,Member,Gym,L36,19:30,22:30,QRIS,Air Mineral
+K050,2026-08-12,M039,Ayu Wijaya,Member,Gym + Treadmill,L48,07:15,09:07,Cash,Air Mineral
+K051,2026-10-16,M071,Rizky Permana,Member,Gym + Treadmill,L44,10:30,12:08,Cash,Protein Shake
+K052,2026-10-02,M082,Agus Anggraini,Member,Gym + Treadmill,L41,14:45,16:34,Cash,Air Mineral
+K053,2026-09-30,M055,Siti Maulana,Member,Gym + Treadmill,L17,06:00,08:10,QRIS,Minuman Isotonik
+K054,2026-09-09,M021,Budi Wijaya,Member,Gym,L45,14:45,15:32,Cash,Air Mineral
+K055,2026-08-27,M020,Budi Saputra,Member,Gym,L03,06:30,07:52,Cash,Kopi
+K056,2026-09-19,M040,Intan Anggraini,Member,Gym + Treadmill,L16,20:00,22:16,QRIS,Minuman Isotonik
+K057,2026-10-22,M086,Rani Wulandari,Member,Gym + Treadmill,L12,11:45,13:09,Cash,Minuman Isotonik
+K058,2026-11-01,M053,Dewi Pratama,Member,Gym + Treadmill,L11,08:30,11:00,Transfer,Minuman Isotonik
+K059,2026-10-22,M090,Arif Nugroho,Member,Gym,L30,12:00,14:45,Cash,Minuman Isotonik
+K060,2026-09-26,M045,Bagas Firmansyah,Member,Gym + Treadmill,L13,19:15,20:57,QRIS,Air Mineral
+K061,2026-09-23,M052,Dimas Hidayat,Member,Gym + Treadmill,L33,10:00,11:56,QRIS,Protein Shake
+K062,2026-08-10,M052,Dimas Hidayat,Member,Gym + Treadmill,L12,19:30,20:22,Transfer,Air Mineral
+K063,2026-10-02,M075,Nisa Saputra,Member,Gym + Treadmill,L21,06:00,08:36,QRIS,Protein Shake
+K064,2026-08-19,M056,Nisa Pratama,Member,Gym,L13,14:00,16:23,,Tidak Ada
+K065,2026-10-30,M033,Agus Puspita,Member,Gym,L35,17:45,18:30,,Tidak Ada
+K066,2026-08-11,M088,Siti Santoso,Member,Gym,L22,09:30,12:05,QRIS,Air Mineral
+K067,2026-09-25,M080,Nadia Wijaya,Member,Gym + Treadmill,L20,16:00,18:01,,Tidak Ada
+K068,2026-09-13,M086,Rani Wulandari,Member,Gym + Treadmill,L09,11:45,13:45,,Tidak Ada
+K069,2026-09-12,M025,Nadia Santoso,Member,Gym,L37,16:45,18:14,,Tidak Ada
+K070,2026-09-14,M039,Ayu Wijaya,Member,Gym + Treadmill,L28,14:00,16:02,Cash,Protein Shake
+K071,2026-08-19,M075,Nisa Saputra,Member,Gym + Treadmill,L44,16:30,19:14,Transfer,Kopi
+K072,2026-08-31,M028,Arif Kurniawan,Member,Gym,L43,13:15,14:21,QRIS,Protein Shake
+K073,2026-08-17,M082,Agus Anggraini,Member,Gym + Treadmill,L13,11:00,12:45,Cash,Protein Shake
+K074,2026-11-01,M019,Aditya Nugroho,Member,Gym + Treadmill,L50,06:15,09:01,,Tidak Ada
+K075,2026-09-07,M010,Dinda Kurniawan,Member,Gym + Treadmill,L16,12:15,14:38,Transfer,Kopi
+K076,2026-08-13,M019,Aditya Nugroho,Member,Gym + Treadmill,L12,17:00,18:12,Cash,Kopi
+K077,2026-08-30,M090,Arif Nugroho,Member,Gym,L09,13:00,14:48,Transfer,Air Mineral
+K078,2026-08-11,M060,Aditya Wulandari,Member,Gym,L47,14:30,17:08,,Tidak Ada
+K079,2026-09-11,M065,Dimas Lestari,Member,Gym,L17,19:45,21:10,Transfer,Kopi
+K080,2026-10-04,M097,Fajar Puspita,Member,Gym + Treadmill,L16,19:30,22:28,QRIS,Kopi
+K081,2026-09-09,M036,Dinda Puspita,Member,Gym + Treadmill,L21,07:30,09:15,Transfer,Protein Shake
+K082,2026-10-25,M070,Nadia Lestari,Member,Gym,L10,08:15,09:59,QRIS,Kopi
+K083,2026-10-08,M091,Dinda Hidayat,Member,Gym,L30,07:45,10:14,QRIS,Protein Shake
+K084,2026-10-28,M054,Ayu Setiawan,Member,Gym + Treadmill,L45,09:45,12:09,,Tidak Ada
+K085,2026-08-23,M003,Bagas Ramadhan,Member,Gym,L49,12:45,13:31,Transfer,Protein Shake
+K086,2026-09-12,M050,Bagas Lestari,Member,Gym + Treadmill,L28,14:15,17:04,Transfer,Minuman Isotonik
+K087,2026-11-01,M063,Ayu Firmansyah,Member,Gym + Treadmill,L09,12:30,14:58,Transfer,Minuman Isotonik
+K088,2026-08-28,M080,Nadia Wijaya,Member,Gym + Treadmill,L28,06:45,07:36,QRIS,Air Mineral
+K089,2026-09-06,M018,Rani Firmansyah,Member,Gym,L14,08:00,09:51,Transfer,Kopi
+K090,2026-09-24,M059,Citra Ramadhan,Member,Gym + Treadmill,L06,11:45,13:41,Transfer,Kopi
+K091,2026-11-02,M061,Rian Wijaya,Member,Gym,L05,17:00,19:14,QRIS,Minuman Isotonik
+K092,2026-08-13,M100,Rizky Nugroho,Member,Gym,L40,06:00,07:48,Cash,Minuman Isotonik
+K093,2026-10-05,M020,Budi Saputra,Member,Gym,L14,08:45,09:59,,Tidak Ada
+K094,2026-08-07,M060,Aditya Wulandari,Member,Gym,L39,10:30,11:57,,Tidak Ada
+K095,2026-10-21,M096,Ayu Saputra,Member,Gym + Treadmill,L02,18:15,20:19,QRIS,Air Mineral
+K096,2026-08-23,M040,Intan Anggraini,Member,Gym + Treadmill,L38,16:45,19:11,Cash,Minuman Isotonik
+K097,2026-08-16,M089,Rian Wulandari,Member,Gym + Treadmill,L08,09:00,11:02,,Tidak Ada
+K098,2026-10-30,M073,Fajar Firmansyah,Member,Gym + Treadmill,L42,11:45,14:04,QRIS,Air Mineral
+K099,2026-11-03,M044,Dimas Setiawan,Member,Gym,L24,19:45,22:35,Transfer,Air Mineral
+K100,2026-09-07,M082,Agus Anggraini,Member,Gym + Treadmill,L34,17:15,19:51,QRIS,Minuman Isotonik
+K101,2026-10-01,M084,Ayu Puspita,Member,Gym,L38,15:45,18:29,QRIS,Kopi
+K102,2026-09-24,M035,Rian Maulana,Member,Gym,L16,19:15,20:22,Transfer,Protein Shake
+K103,2026-09-06,M097,Fajar Puspita,Member,Gym + Treadmill,L21,15:45,17:56,Transfer,Air Mineral
+K104,2026-09-03,M024,Aditya Maulana,Member,Gym + Treadmill,L39,09:30,11:21,Transfer,Protein Shake
+K105,2026-09-30,M090,Arif Nugroho,Member,Gym,L16,14:00,16:57,Cash,Minuman Isotonik
+K106,2026-09-13,M093,Nadia Ramadhan,Member,Gym,L02,13:15,16:01,Transfer,Kopi
+K107,2026-09-28,M012,Nisa Setiawan,Member,Gym,L38,09:45,11:32,QRIS,Protein Shake
+K108,2026-09-05,M048,Nadia Ramadhan,Member,Gym + Treadmill,L22,14:30,17:03,,Tidak Ada
+K109,2026-08-07,M046,Rani Maulana,Member,Gym,L08,13:30,15:33,Cash,Protein Shake
+K110,2026-10-11,M093,Nadia Ramadhan,Member,Gym,L48,11:00,12:32,Cash,Minuman Isotonik
+K111,2026-09-30,M062,Dinda Hidayat,Member,Gym,L15,17:30,18:40,Transfer,Minuman Isotonik
+K112,2026-10-13,M047,Bagas Permana,Member,Gym + Treadmill,L04,10:00,11:17,Cash,Protein Shake
+K113,2026-09-28,M071,Rizky Permana,Member,Gym + Treadmill,L37,17:15,20:05,Cash,Air Mineral
+K114,2026-09-05,M037,Rizky Hidayat,Member,Gym + Treadmill,L17,13:45,15:57,Cash,Minuman Isotonik
+K115,2026-10-21,M062,Dinda Hidayat,Member,Gym,L37,19:00,21:27,Cash,Kopi
+K116,2026-08-09,M081,Dinda Setiawan,Member,Gym + Treadmill,L20,06:15,07:38,,Tidak Ada
+K117,2026-10-04,M011,Intan Nugroho,Member,Gym,L25,07:45,09:27,,Tidak Ada
+K118,2026-09-09,M058,Aditya Wijaya,Member,Gym,L40,10:45,12:48,,Tidak Ada
+K119,2026-08-18,M008,Rizky Wulandari,Member,Gym,L43,17:00,18:38,Transfer,Minuman Isotonik
+K120,2026-10-15,M011,Intan Nugroho,Member,Gym,L27,09:15,10:19,Cash,Minuman Isotonik
+K121,2026-08-08,M058,Aditya Wijaya,Member,Gym,L19,15:45,17:44,Cash,Air Mineral
+K122,2026-09-29,M091,Dinda Hidayat,Member,Gym,L41,17:45,18:48,Transfer,Minuman Isotonik
+K123,2026-08-12,M076,Dinda Hidayat,Member,Gym + Treadmill,L15,18:15,20:48,QRIS,Air Mineral
+K124,2026-10-16,M083,Dewi Lestari,Member,Gym + Treadmill,L11,20:30,21:51,Cash,Air Mineral
+K125,2026-08-20,M040,Intan Anggraini,Member,Gym + Treadmill,L45,17:30,20:07,Transfer,Air Mineral
+K126,2026-08-07,M039,Ayu Wijaya,Member,Gym + Treadmill,L32,12:30,15:23,,Tidak Ada
+K127,2026-10-25,M057,Dewi Puspita,Member,Gym + Treadmill,L17,15:00,17:35,QRIS,Protein Shake
+K128,2026-10-24,M004,Agus Hidayat,Member,Gym + Treadmill,L03,09:00,10:53,,Tidak Ada
+K129,2026-10-13,M098,Ayu Ramadhan,Member,Gym + Treadmill,L28,13:45,15:41,QRIS,Minuman Isotonik
+K130,2026-09-03,M082,Agus Anggraini,Member,Gym + Treadmill,L21,07:45,09:59,Transfer,Kopi
+K131,2026-10-22,M086,Rani Wulandari,Member,Gym + Treadmill,L32,19:15,21:24,QRIS,Kopi
+K132,2026-08-12,M037,Rizky Hidayat,Member,Gym + Treadmill,L17,12:00,14:41,Transfer,Air Mineral
+K133,2026-10-21,M042,Dinda Pratama,Member,Gym,L35,18:45,21:41,QRIS,Air Mineral
+K134,2026-09-13,M060,Aditya Wulandari,Member,Gym,L49,06:15,09:12,QRIS,Protein Shake
+K135,2026-08-16,M064,Intan Lestari,Member,Gym + Treadmill,L09,13:00,14:37,QRIS,Protein Shake
+K136,2026-09-09,M037,Rizky Hidayat,Member,Gym + Treadmill,L39,20:45,22:01,QRIS,Air Mineral
+K137,2026-08-06,M031,Fajar Saputra,Member,Gym,L27,08:30,09:18,,Tidak Ada
+K138,2026-10-07,M012,Nisa Setiawan,Member,Gym,L10,19:00,21:43,QRIS,Air Mineral
+K139,2026-09-28,M064,Intan Lestari,Member,Gym + Treadmill,L16,14:30,17:01,Transfer,Kopi
+K140,2026-08-26,M059,Citra Ramadhan,Member,Gym + Treadmill,L33,08:45,10:18,,Tidak Ada
+K141,2026-10-18,M096,Ayu Saputra,Member,Gym + Treadmill,L33,19:00,20:55,Transfer,Kopi
+K142,2026-11-04,M035,Rian Maulana,Member,Gym,L35,10:30,13:20,Transfer,Minuman Isotonik
+K143,2026-09-21,M062,Dinda Hidayat,Member,Gym,L45,11:45,14:26,Cash,Protein Shake
+K144,2026-08-23,M031,Fajar Saputra,Member,Gym,L48,12:15,14:45,Transfer,Air Mineral
+K145,2026-08-06,M061,Rian Wijaya,Member,Gym,L03,20:45,23:08,Transfer,Minuman Isotonik
+K146,2026-09-01,M017,Bagas Wijaya,Member,Gym,L34,15:30,16:40,Cash,Kopi
+K147,2026-11-03,M059,Citra Ramadhan,Member,Gym + Treadmill,L31,17:15,19:44,Cash,Minuman Isotonik
+K148,2026-09-22,M034,Budi Firmansyah,Member,Gym + Treadmill,L35,15:45,16:50,QRIS,Protein Shake
+K149,2026-09-25,M049,Dinda Nugroho,Member,Gym + Treadmill,L05,16:45,17:39,,Tidak Ada
+K150,2026-08-16,M031,Fajar Saputra,Member,Gym,L07,16:30,18:13,Transfer,Air Mineral
+K151,2026-08-15,,Titin Kusmawati,Non-member,Harian,L20,17:00,19:38,QRIS,Minuman Isotonik
+K152,2026-10-30,,Estiawan Jailani,Non-member,Harian,L28,11:00,13:00,Transfer,Protein Shake
+K153,2026-10-04,,Galang Pratama,Non-member,Harian,L06,14:45,16:16,Cash,Minuman Isotonik
+K154,2026-09-17,,Galih Hasanah,Non-member,Harian,L15,15:15,18:07,Cash,Tidak Ada
+K155,2026-08-15,,Karsa Padmasari,Non-member,Harian,L19,10:45,12:35,Transfer,Air Mineral
+K156,2026-08-27,,Gaman Namaga,Non-member,Harian,L20,08:00,10:38,QRIS,Protein Shake
+K157,2026-09-11,,Cinthia Kurniawan,Non-member,Harian,L25,17:30,20:11,Cash,Protein Shake
+K158,2026-10-22,,Raditya Tarihoran,Non-member,Harian,L45,09:45,12:01,Transfer,Tidak Ada
+K159,2026-11-02,,Opung Thamrin,Non-member,Harian,L44,19:45,21:40,QRIS,Air Mineral
+K160,2026-10-29,,Karta Nuraini,Non-member,Harian,L23,20:45,22:43,QRIS,Minuman Isotonik
+K161,2026-08-15,,Puji Tarihoran,Non-member,Harian,L42,09:30,10:50,QRIS,Air Mineral
+K162,2026-09-26,,Cayadi Rahayu,Non-member,Harian,L47,18:45,19:38,Transfer,Tidak Ada
+K163,2026-10-24,,Zelda Anggraini,Non-member,Harian,L13,20:30,22:38,Cash,Kopi
+K164,2026-08-27,,Zelda Anggraini,Non-member,Harian,L11,20:30,23:30,Transfer,Tidak Ada
+K165,2026-09-04,,Labuh Hutapea,Non-member,Harian,L05,18:30,20:41,Transfer,Air Mineral
+K166,2026-10-07,,Galang Pratama,Non-member,Harian,L01,19:45,22:03,Transfer,Air Mineral
+K167,2026-08-28,,Jaka Januar,Non-member,Harian,L25,07:45,10:04,QRIS,Protein Shake
+K168,2026-09-18,,Cinthia Kurniawan,Non-member,Harian,L36,07:15,10:00,QRIS,Air Mineral
+K169,2026-08-18,,Ophelia Usada,Non-member,Harian,L27,09:00,11:43,QRIS,Protein Shake
+K170,2026-10-18,,Maria Setiawan,Non-member,Harian,L07,06:00,08:02,Cash,Kopi
+K171,2026-08-28,,Cahyono Gunawan,Non-member,Harian,L48,08:45,11:26,QRIS,Protein Shake
+K172,2026-08-27,,Aisyah Budiyanto,Non-member,Harian,L40,12:15,14:46,Transfer,Air Mineral
+K173,2026-09-30,,Jessica Sihotang,Non-member,Harian,L16,06:30,08:10,Transfer,Kopi
+K174,2026-10-23,,Yuni Puspita,Non-member,Harian,L18,16:30,18:46,Transfer,Air Mineral
+K175,2026-10-20,,Vega Nasyiah,Non-member,Harian,L41,19:45,20:53,QRIS,Minuman Isotonik
+K176,2026-11-02,,Maman Kusumo,Non-member,Harian,L14,06:30,08:17,QRIS,Minuman Isotonik
+K177,2026-08-26,,Ibrani Pradipta,Non-member,Harian,L39,09:15,10:59,Cash,Protein Shake
+K178,2026-09-30,,Sari Kusumo,Non-member,Harian,L12,19:15,20:33,Transfer,Tidak Ada
+K179,2026-08-12,,Maria Setiawan,Non-member,Harian,L16,19:00,20:18,Transfer,Air Mineral
+K180,2026-09-24,,Kasusra Yuniar,Non-member,Harian,L48,06:15,08:07,Cash,Air Mineral
+K181,2026-08-29,,Irwan Yolanda,Non-member,Harian,L33,07:00,09:46,Transfer,Kopi
+K182,2026-10-22,,Kasusra Yuniar,Non-member,Harian,L30,13:15,14:11,Transfer,Tidak Ada
+K183,2026-11-01,,Queen Salahudin,Non-member,Harian,L07,06:45,09:12,QRIS,Kopi
+K184,2026-09-09,,Ismail Mandala,Non-member,Harian,L05,07:00,09:07,Cash,Tidak Ada
+K185,2026-09-30,,Zelda Anggraini,Non-member,Harian,L19,15:30,17:52,QRIS,Tidak Ada
+K186,2026-09-01,,Iriana Nasyiah,Non-member,Harian,L42,15:45,16:55,QRIS,Air Mineral
+K187,2026-08-26,,Hasna Marbun,Non-member,Harian,L27,17:15,19:50,Cash,Kopi
+K188,2026-09-07,,Jindra Marpaung,Non-member,Harian,L21,12:45,13:54,Transfer,Protein Shake
+K189,2026-10-03,,Gaduh Wahyudin,Non-member,Harian,L06,11:15,14:01,Cash,Air Mineral
+K190,2026-09-10,,Hasta Yulianti,Non-member,Harian,L38,07:30,08:48,Cash,Tidak Ada
+K191,2026-08-25,,Fitria Ramadan,Non-member,Harian,L49,11:00,13:30,QRIS,Protein Shake
+K192,2026-10-29,,Betania Widodo,Non-member,Harian,L33,10:30,12:45,QRIS,Air Mineral
+K193,2026-10-16,,Langgeng Utami,Non-member,Harian,L36,16:45,18:27,Transfer,Air Mineral
+K194,2026-10-21,,Ismail Simbolon,Non-member,Harian,L50,18:30,20:12,QRIS,Kopi
+K195,2026-08-18,,Adiarja Saptono,Non-member,Harian,L18,16:00,17:53,Cash,Air Mineral
+K196,2026-09-26,,Aisyah Budiyanto,Non-member,Harian,L10,20:30,22:44,Cash,Air Mineral
+K197,2026-08-12,,Intan Anggriawan,Non-member,Harian,L48,12:00,13:21,Cash,Air Mineral
+K198,2026-10-08,,Widya Anggraini,Non-member,Harian,L24,12:45,15:26,Cash,Protein Shake
+K199,2026-09-24,,Kasusra Zulaika,Non-member,Harian,L49,18:00,18:58,Cash,Minuman Isotonik
+K200,2026-10-29,,Adiarja Saptono,Non-member,Harian,L28,16:00,17:54,QRIS,Kopi
